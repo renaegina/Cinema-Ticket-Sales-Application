@@ -1,6 +1,6 @@
 # Cinema Ticket Sales Application
 
-<p align="center"><img src="View.png" alt="Tampilan Aplikasi"></a></p>
+<p align="center"><img src="Picture.png" alt="Tampilan Aplikasi"></a></p>
 
 ## Features
 
